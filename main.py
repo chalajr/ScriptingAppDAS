@@ -1,7 +1,4 @@
-
 import csv
-
-
 # data = [{'name': 'John Doe', 'age': 30}, {'name': 'Jane Doe', 'age': 25}]
 def write_list_of_dicts_to_csv(filename, data):
     with open(filename, 'w') as f:

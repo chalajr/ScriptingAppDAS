@@ -1,4 +1,3 @@
-# repository.py
 import csv
 
 ARCHIVO_DATOS = 'sample_grocery.csv'
